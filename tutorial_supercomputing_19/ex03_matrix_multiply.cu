@@ -1,5 +1,3 @@
-#include <cstdio> // TO REMOVE
-
 // Each thread block will have shape (BLOCK_SIZE, BLOCK_SIZE)
 constexpr unsigned int BLOCK_SIZE = 16;
 
